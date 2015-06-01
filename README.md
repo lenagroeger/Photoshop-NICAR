@@ -2,10 +2,10 @@
 
 In this session, we'll learn:
 
-1. How to automate tasks using **Actions**
-2. How to create **Droplets** for Actions you use regularly
-3. How to make **Animated Gifs** using the Timeline
-4. How to use the **Perspective tool**
+1. How to automate tasks using [**Actions**](https://github.com/lenagroeger/Photoshop-NICAR#actions)
+2. How to create [**Droplets**](https://github.com/lenagroeger/Photoshop-NICAR#droplets) for Actions you use regularly
+3. How to make **Animated Gifs** with [two photos](https://github.com/lenagroeger/Photoshop-NICAR#animated-gif-simple-2-photo-animation), [multiple photos](https://github.com/lenagroeger/Photoshop-NICAR#animated-gif-multiple-photo-animation) and [videos](https://github.com/lenagroeger/Photoshop-NICAR#animated-gif-video-animation).
+4. How to use the magical [**Perspective tool** and Content Aware Fill](https://github.com/lenagroeger/Photoshop-NICAR#perspective-tool)
 
 [Download files here](https://drive.google.com/file/d/0ByZb_bUVlqwjdkgzSnRGRk40Sm8/view?usp=sharing)
 
@@ -89,9 +89,9 @@ Now let's apply our droplet-making skills to solve a real-life problem that you 
 8. You might need to give this new color a name, but when you hit OK it should have given your photo a nice sepia effect!
    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress9.jpg)
 
-9. Now let's save it. File > Save for Web, and save it to a new folder (I called it Congress Photos New)
+9. Now let's save it. File > Save for Web, and save it to a new folder (I called it Congress Photos New)<br>
 
-10. Stop recording this action by hitting the "Stop" button
+10. Stop recording this action by hitting the "Stop" button<br>
    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress10.jpg)
 
 11. Now let's go straight to making a droplet. **File > Automate > Create Droplet...**
@@ -224,6 +224,27 @@ You should end up with this:<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/measles2.gif)
 
 
+
+##More Magic in Photoshop: Perspective Crop and Content Aware Fill ##
+
+
+1. Open up the War & Peace photo in the Perspective folder.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/warpeace.jpg)
+
+2. Using the crop perspective tool this time, draw a selection on the four corners of the book cover.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/perspectivetool.jpg)
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/perspectivecropping.jpg)
+Crazy, right??
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/covercorrect.jpg)
+
+3. Now, rotate the canvas 90&#8451; clockwise. Go to Image > Image Rotation > 90&#8451; CW
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/90cw.jpg)
+4. Good, now it's right side up. Now, say we want to get rid of the "and" in War and Peace (scandalous, I know). Select the "and" with the selection tool so it looks like this.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/selectand.jpg)
+5. Go to Edit > Fill, and do a Content-Aware fill.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/noand.jpg)
+6. MIND BLOWN
+7. Contemplate all the other uses of the perspective crop tool and content-aware fill tool.
 
 
 
