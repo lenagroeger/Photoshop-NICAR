@@ -185,7 +185,7 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 ##Animated Gif: Video Animation ##
 
 
-1. Go to [this Guardian interactive on measles](http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated).</a>
+1. Sometimes you want to convert a short segment of a video to a gif, whether that's a YouTube clip or a screen recording. You can do this easily with QuickTime + Photoshop. Let's try it out on  [this Guardian interactive on measles](http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated).</a>
 
 2. Open up QuickTime, and select "New Screen Recording."
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/screengif1.jpg)
