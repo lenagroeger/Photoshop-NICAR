@@ -24,18 +24,24 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 6. Set the resolution to 72px and the width to 200px.
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster6.jpg)
 7. Still recording, go to File > Save As, and save to new folder (I've called it Best Picture New). You can also do File > Save for Web.
+<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster8.jpg)
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster7.jpg)
 
 7. At the bottom of the Actions window, hit "Stop" to stop recording.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress10.jpg)
+
 8. Close the image without saving your changes.
-9. To run your script, open **File > Automate > Batch...**  ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/BatchWindow.png)
-10. Under "Play" select your Action "200px side"
-11. Choose your source folder. This should be a folder containing multiple image files.
-12. Under "Destination", choose "Folder". Then, Select a destination folder or create. This is where your new images will be saved.
+9. To run your script, open **File > Automate > Batch...**  ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster9.jpg)
+
+10. First we need to pick which action to apply. Since we want to use the 200px action we just created, under "Play" make sure the Action "200px" is selected.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster10.jpg)
+11. Now we need to choose which folder of images we want to apply this action to, and where we want our new images to be saved. Choose your Source folder
+(Best Picture) and Destination folder (Best Picture New).
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster11.jpg)
+
 13. Hit "Okay", sit back and relax. Your photos will be ready momentarily.
 
-14. Occasionly these steps will give you an empty folder (rather than saving , you might need to uncheck the "Override Action 'Save As' Command"
 
 
 ##Droplets##
