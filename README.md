@@ -108,7 +108,6 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 Let's Make a Gif: Multi-Photo Edition
 
 1. We're going to use these two delightful before-after photos
-
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermy1.jpg)
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermy2.jpg)
 
