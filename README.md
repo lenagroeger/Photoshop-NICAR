@@ -40,8 +40,9 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 (Best Picture) and Destination folder (Best Picture New).
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster11.jpg)
 
-13. Hit "Okay", sit back and relax. Your photos will be ready momentarily.
+13. Hit "OK", sit back and relax. Your photos will be ready momentarily. You should end up with your "Best Picture New" folder full of smaller sized images!
 
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster12.jpg)
 
 
 ##Droplets##
