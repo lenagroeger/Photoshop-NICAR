@@ -107,62 +107,58 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 
 Let's Make a Gif: Multi-Photo Edition
 
-    1. We're going to use these two delightful before-after photos
+1. We're going to use these two delightful before-after photos
 
-     ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermy1.jpg)
-    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermy2.jpg)
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermy1.jpg)
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermy2.jpg)
 
-      *[Full back story](http://www.nydailynews.com/life-style/real-estate/brokers-digital-trickery-sell-drab-apartments-article-1.1885998), and [a related something you should read on the trip home from IRE](http://www.susanorlean.com/articles/lifelike.html).
+*[Full back story](http://www.nydailynews.com/life-style/real-estate/brokers-digital-trickery-sell-drab-apartments-article-1.1885998), and [a related something you should read on the trip home from IRE](http://www.susanorlean.com/articles/lifelike.html).
 
-    2. Open up Photoshop, and go to Window > Timeline.
-        ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif1.jpg)
+2. Open up Photoshop, and go to Window > Timeline.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif1.jpg)
 
-    3. You should now see a bottom bar with a tab called Timeline.
-    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif2.jpg)
+3. You should now see a bottom bar with a tab called Timeline.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif2.jpg)
 
-    4. Open up both photos in Photoshop and copy and paste them into the same file. You should end up with each photo on its own layer.
-        ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3.jpg)
+4. Open up both photos in Photoshop and copy and paste them into the same file. You should end up with each photo on its own layer.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3.jpg)
 
-    5. Click on "Create Frame Animation."
-            ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif4.jpg)
-
-
-
-    6. You should see a little box with a photo, we'll refer to that as a single "frame."
-    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3b.jpg)
-    7. Go ahead and set the duration for .5 seconds.
-            ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif6.jpg)
-
-    8. And then set the looping to FOREVER (I mean, go big or go home).
-
-        ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7.jpg)
-
-    9. Now we need to make a second frame with the other photo. Click on the new page button.
- ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3c.jpg)
-
- 10. You should see a new frame appear.
-  ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7b.jpg)
+5. Click on "Create Frame Animation."
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif4.jpg)
 
 
-    11. Now we have a new frame, but they both look the same! So with the second frame selected, go over to your layers and click on the eye icon to toggle one layer off and reveal the second photo.
 
-        ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7c.jpg)
+6. You should see a little box with a photo, we'll refer to that as a single "frame."
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3b.jpg)
 
-     12. The animation frames reflect the current state of your layers, so we've just set the second frame to show the second photo. If you look closely you should see that the frame indeed looks different (it's full of taxidermy).
-    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7d.jpg)
+7. Go ahead and set the duration for .5 seconds.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif6.jpg)
 
-    13. Go to File > Save for Web.
-    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif8.jpg)
+8. And then set the looping to FOREVER (I mean, go big or go home).
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7.jpg)
 
-    14. Save it as a gif!
+9. Now we need to make a second frame with the other photo. Click on the new page button.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3c.jpg)
 
-    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif9.jpg)
+10. You should see a new frame appear.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7b.jpg)
 
-    15. Now, open up that gif in a browser. You should see a spectacular transformation of dead animals.
+11. Now we have a new frame, but they both look the same! So with the second frame selected, go over to your layers and click on the eye icon to toggle one layer off and reveal the second photo.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7c.jpg)
 
-       ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermyFinal.gif)
+12. The animation frames reflect the current state of your layers, so we've just set the second frame to show the second photo. If you look closely you should see that the frame indeed looks different (it's full of taxidermy).
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7d.jpg)
 
-    16. Now, contemplate all the much more useful combinations of photos you can now make into gifs.
+13. Go to File > Save for Web.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif8.jpg)
+
+14. Save it as a gif!
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif9.jpg)
+
+15. Now, open up that gif in a browser. You should see a spectacular transformation of dead animals.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermyFinal.gif)
+
+16. Now, contemplate all the much more useful combinations of photos you can now make into gifs.
 
 
 
