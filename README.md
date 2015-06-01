@@ -17,15 +17,17 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 3. From the dropdown, select **New Action...** (Alternatively, click on the little icon that looks like a Post-It note to create a new action)  ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster3.jpg)
 
 
-4. Give it a name. Let's say "200px wide", and push "Record"
-5. Select **Image > Image Size...**
-*    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/Image%20Size.png)
-6. Set the resolution to 72px and the width to 200px.
-7. Still recording, go to File > Save As, and save to new folder (I've called it Best Picture New)
+4. Give it a name. Let's say "200px wide", and push "Record" ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster4.jpg)
+
+5. Select **Image > Image Size...**   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster5.jpg)
+6. Set the resolution to 72px and the width to 200px. ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster6.jpg)
+7. Still recording, go to File > Save As, and save to new folder (I've called it Best Picture New). You can also do File > Save for Web.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster8.jpg)
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster7.jpg)
+
 7. At the bottom of the Actions window, hit "Stop" to stop recording.
 8. Close the image without saving your changes.
-9. To run your script, open **File > Automate > Batch...**
-*    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/BatchWindow.png)
+9. To run your script, open **File > Automate > Batch...**  ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/BatchWindow.png)
 10. Under "Play" select your Action "200px side"
 11. Choose your source folder. This should be a folder containing multiple image files.
 12. Under "Destination", choose "Folder". Then, Select a destination folder or create. This is where your new images will be saved.
