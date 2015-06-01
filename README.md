@@ -101,11 +101,10 @@ Now let's apply our droplet-making skills to solve a real-life problem that you 
 
 13. Now I'll drag my Congress Photos folder onto the droplet, and wait for my computer to do all the work! You should end up with a bunch of newly sepia-fied images. Hurray!
 
-##Animated Gifs##
+
+
+##Animated Gif: Simple 2-Photo Animation ##
 Do you have an interactive graphic you'd like to promote on the front page? Animated Gifs are a great way to draw attention to interactive work.
-
-
-Let's Make a Gif: Multi-Photo Edition
 
 1. We're going to use these two delightful before-after photos
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermyB&A.jpg)
@@ -162,8 +161,7 @@ Let's Make a Gif: Multi-Photo Edition
 
 
 
-
-
+##Animated Gif: Multiple Photo Animation ##
 
 1. Start with a series of images or screenshots from your interactive.
 2. Open one of the images in Photoshop.
