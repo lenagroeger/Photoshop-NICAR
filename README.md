@@ -110,16 +110,15 @@ Let's Make a Gif: Multi-Photo Edition
 1. We're going to use these two delightful before-after photos
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermy1.jpg)
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermy2.jpg)
-
-*[Full back story](http://www.nydailynews.com/life-style/real-estate/brokers-digital-trickery-sell-drab-apartments-article-1.1885998), and [a related something you should read on the trip home from IRE](http://www.susanorlean.com/articles/lifelike.html).
-
+<br>
+[Full back story](http://www.nydailynews.com/life-style/real-estate/brokers-digital-trickery-sell-drab-apartments-article-1.1885998), and [a related something you should read on the trip home from IRE](http://www.susanorlean.com/articles/lifelike.html).
 2. Open up Photoshop, and go to Window > Timeline.
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif1.jpg)
 
 3. You should now see a bottom bar with a tab called Timeline.
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif2.jpg)
 
-4. Open up both photos in Photoshop and copy and paste them into the same file. You should end up with each photo on its own layer.
+4. Open up both photos in Photoshop and copy and paste them into the same file (Or just drag and drop them in). You should end up with each photo on its own layer.
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3.jpg)
 
 5. Click on "Create Frame Animation."
