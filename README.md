@@ -141,9 +141,9 @@ Let's Make a Gif: Multi-Photo Edition
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7b.jpg)
 
 11. Now we have a new frame, but they both look the same! So with the second frame selected, go over to your layers and click on the eye icon to toggle one layer off and reveal the second photo.
-![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7c.jpg)
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7c.jpg)<br>
 
-12. The animation frames reflect the current state of your layers, so we've just set the second frame to show the second photo. If you look closely you should see that the frame indeed looks different (it's full of taxidermy).
+12. The animation frames reflect the current state of your layers, so we've just set the second frame to show the second photo. If you look closely you should see that the frame indeed looks different (it's full of taxidermy).<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7d.jpg)
 
 13. If you have more than 2 or 3 layers and need to make them all frames, a shortcut is to go to the Timeline dropdown and select "Make Frames from Layers"
