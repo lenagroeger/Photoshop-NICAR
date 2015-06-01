@@ -163,8 +163,8 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 
 ##Animated Gif: Multiple Photo Animation ##
 
-1. Start with a series of images or screenshots from your interactive.
-2. Open one of the images in Photoshop.
+1. Let's say you want to do more than animate between 2 photos, you want to show a progression of many photos, like [this example from the Wall Street Journal.](http://graphics.wsj.com/ukraine-rebel-maps/)
+2. Let's try it! Open one of the images from the Ukraine folder in Photoshop.
 3. Drag and drop your other images onto the stage. This will bring them into your file as separate layers.
 *    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/GifLayers.png)
 4. Select **Window > Timeline** from the toolbar. This will open a new panel in Photoshop.
