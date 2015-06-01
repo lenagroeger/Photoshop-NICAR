@@ -125,16 +125,16 @@ Let's Make a Gif: Multi-Photo Edition
 
 
 
-6. You should see a little box with a photo, we'll refer to that as a single "frame."
+6. You should see a little box with a photo, we'll refer to that as a single "frame." <br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3b.jpg)
 
-7. Go ahead and set the duration for .5 seconds.
+7. Go ahead and set the duration for .5 seconds. <br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif6.jpg)
 
-8. And then set the looping to FOREVER (I mean, go big or go home).
+8. And then set the looping to FOREVER (I mean, go big or go home). <br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7.jpg)
 
-9. Now we need to make a second frame with the other photo. Click on the new page button.
+9. Now we need to make a second frame with the other photo. You can do this two ways. We'll do the manual way first. Click on the new page button.
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3c.jpg)
 
 10. You should see a new frame appear.
@@ -146,16 +146,19 @@ Let's Make a Gif: Multi-Photo Edition
 12. The animation frames reflect the current state of your layers, so we've just set the second frame to show the second photo. If you look closely you should see that the frame indeed looks different (it's full of taxidermy).
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7d.jpg)
 
-13. Go to File > Save for Web.
+13. If you have more than 2 or 3 layers and need to make them all frames, a shortcut is to go to the Timeline dropdown and select "Make Frames from Layers"
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7e.jpg)
+
+14. Go to File > Save for Web.
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif8.jpg)
 
-14. Save it as a gif!
+15. Save it as a gif!
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif9.jpg)
 
-15. Now, open up that gif in a browser. You should see a spectacular transformation of dead animals.
+16. Now, open up that gif in a browser. You should see a spectacular transformation of dead animals.
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermyFinal.gif)
 
-16. Now, contemplate all the much more useful combinations of photos you can now make into gifs.
+17. Now, contemplate all the much more useful combinations of photos you can now make into gifs.
 
 
 
