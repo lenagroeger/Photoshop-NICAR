@@ -166,18 +166,19 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 1. Let's say you want to do more than animate between 2 photos, you want to show a progression of many photos, like [this example from the Wall Street Journal.](http://graphics.wsj.com/ukraine-rebel-maps/)
 2. Let's try it! Open one of the images from the Ukraine folder in Photoshop.
 3. Drag and drop your other images onto the stage. This will bring them into your file as separate layers.
-*    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/GifLayers.png)
-4. Select **Window > Timeline** from the toolbar. This will open a new panel in Photoshop.
-5. From the Timeline panel, select "Create Frame Animation" from the dropdown, then click the dropdown.
-6. This will pull one layer into the timeline window.
+  ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/GifLayers.png)
+
+4. Like we did before, select **Window > Timeline** from the toolbar to open up a new panel in Photoshop.
+5. From the Timeline panel, click on "Create Frame Animation".
 7. From the dropdown in the upper right of the Timeline window, select "Make Frames from Layers"
-*    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/FramesFromLayers.png)
+ ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/FramesFromLayers.png)
+
 8. Make sure your frames are in the correct sequence, then set the duration for which you'd like each to display
-*    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/SetFrameDurations.png)
+  ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/SetFrameDurations.png)
+
 9. Select **File > Save for Web**
 10. Select Gif as your save format. At the bottom of the window, you'll also be able to set the number of times you'd like the animation to loop. For a homepage promo, it might not be appropriate to loop infinitely. Let's set it to loop 3 times.
 11. Save and you're done. Woot!
-([The source files here are from this WSJ interactive:](http://graphics.wsj.com/ukraine-rebel-maps/))
 
 ##Perspective Tool##
 We also covered the perspective tool through a tutorial I borrowed entirely from Proublica's Lena Groeger, so rather than try to replicate it,I'm jsut going to link to her tutorial here:
