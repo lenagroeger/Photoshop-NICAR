@@ -134,10 +134,10 @@ Let's Make a Gif: Multi-Photo Edition
 8. And then set the looping to FOREVER (I mean, go big or go home). <br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7.jpg)
 
-9. Now we need to make a second frame with the other photo. You can do this two ways. We'll do the manual way first. Click on the new page button.
-![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3c.jpg)
+9. Now we need to make a second frame with the other photo. You can do this two ways. We'll do the manual way first. Click on the new page button. <br>
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3c.jpg) <br>
 
-10. You should see a new frame appear.
+10. You should see a new frame appear.<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7b.jpg)
 
 11. Now we have a new frame, but they both look the same! So with the second frame selected, go over to your layers and click on the eye icon to toggle one layer off and reveal the second photo.
