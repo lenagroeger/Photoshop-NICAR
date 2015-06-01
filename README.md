@@ -48,7 +48,7 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster12.jpg)
 
-14. **NOTE** If you end up with an image full of empty folders or are seeing a "Save Image As" popup box when you try to apply the action, you may have missed the "Save As" step. [This might help](http://graphicdesign.stackexchange.com/questions/6842/automatically-saving-in-a-batch-action)
+14. *NOTE* If you end up with an image full of empty folders or are seeing a "Save Image As" popup box when you try to apply the action, you may have missed the "Save As" step. [This might help.](http://graphicdesign.stackexchange.com/questions/6842/automatically-saving-in-a-batch-action)
 
 
 ##Droplets##
