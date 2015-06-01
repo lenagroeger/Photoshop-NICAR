@@ -43,7 +43,7 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 12. Finally, make sure the "Override Action 'Save As' Command" is checked. This will make sure each file gets saved as it's own filename (and not all filed get saved as GRANDBUDAPEST.jpg)
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster13.jpg)
 
-13. Hit "OK", sit back and relax. Your photos will be ready momentarily. You should end up with your "Best Picture New" folder full of smaller sized images!
+13. Hit "OK", sit back and relax. Your photos will be ready momentarily. When the flickering Photoshop images settle, you should end up with your "Best Picture New" folder full of smaller sized images!
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster12.jpg)
 
 14. *NOTE* If you end up with an image full of empty folders or are seeing a "Save Image As" popup box when you try to apply the action, you may have missed the "Save As" step. [This might help.](http://graphicdesign.stackexchange.com/questions/6842/automatically-saving-in-a-batch-action)
@@ -55,8 +55,11 @@ Droplets make Actions even simpler to use by making them executuable with a simp
 1. Select **File > Automate > Create Droplet...**
 *    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/CreateDroplet.png)
 2. The Droplet menu is much like the Batch menu. Select a location for the Droplet icon to appear, and a folder in which you'd like your files to save.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster14.jpg)
+
 3. Now, instead of going the all the trouble of selecting Batch from the Automate menu, just drag your folder of unedited images on top of the droplet icon. That's it! You're done!
-*    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/droplet.png)
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster15.jpg)
+
 
 ##Droplets 2##
 Now let's apply our droplet-making skills to solve a real-life problem that you may encounter if you cover politics. I want every single member of congress's photo, but not in color – in black and white. There are 879 photos, so manually opening up each photo in Photoshop is out of the question. What to do?
