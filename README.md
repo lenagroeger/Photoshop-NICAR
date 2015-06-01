@@ -17,7 +17,7 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 3. From the dropdown, select **New Action...** (Alternatively, click on the little icon that looks like a Post-It note to create a new action)  ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster3.jpg)
 
 
-4. Give it a name. Let's say "200px wide", and push "Record" ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster4.jpg)
+4. Give it a name. Let's say "200px wide", and click "Record" ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster4.jpg)
 
 5. Select **Image > Image Size...**
 <br> ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster5.jpg)
@@ -53,11 +53,15 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 Droplets make Actions even simpler to use by making them executuable with a simple Drag and Drop.
 
 1. Select **File > Automate > Create Droplet...**
-*    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/CreateDroplet.png)
-2. The Droplet menu is much like the Batch menu. Select a location for the Droplet icon to appear, and a folder in which you'd like your files to save.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster13b.jpg)
+
+2. The Droplet menu is much like the Batch menu. Select a location for the Droplet icon to appear, and a folder in which you'd like your files to save (I just saved my droplet to the Desktop, and picked the same Destination folder, Best Picture New.)
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster14.jpg)
 
-3. Now, instead of going the all the trouble of selecting Batch from the Automate menu, just drag your folder of unedited images on top of the droplet icon. That's it! You're done!
+3. You should end up with a little icon like this on your Desktop. (Older versions of Photoshop used to have an actual droplet icon, no idea why they replaced it with an arrow.)
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster14b.jpg)
+
+3. Now, instead of going the all the trouble of selecting Batch from the Automate menu, just drag your Best Picture folder on top of the droplet icon. That's it! You're done!
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster15.jpg)
 
 
@@ -85,9 +89,17 @@ Now let's apply our droplet-making skills to solve a real-life problem that you 
 8. You might need to give this new color a name, but when you hit OK it should have given your photo a nice sepia effect!
 *    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress9.jpg)
 
-9. Let's stop recording this action by hitting the "Stop" button
+9. Now let's save it. File > Save for Web, and save it to a new folder (I called it Congress Photos New)
+
+10. Stop recording this action by hitting the "Stop" button
 *    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress10.jpg)
 
+11. Now let's go straight to making a droplet. **File > Automate > Create Droplet...**
+
+12. I'll save this droplet as "B&W" to the Desktop, and select "Congress Photos New" as my destination folder.
+*    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress11.jpg)
+
+13. Now I'll drag my Congress Photos folder onto the droplet, and wait for my computer to do all the work! You should end up with a 879 newly sepia-fied images. Hurray!
 
 ##Animated Gifs##
 Do you have an interactive graphic you'd like to promote on the front page? Animated Gifs are a great way to draw attention to interactive work.
