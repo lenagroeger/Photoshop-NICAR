@@ -5,7 +5,7 @@ In this session, we'll learn:
 1. How to automate tasks using [**Actions**](https://github.com/lenagroeger/Photoshop-NICAR#actions)
 2. How to create [**Droplets**](https://github.com/lenagroeger/Photoshop-NICAR#droplets) for Actions you use regularly
 3. How to make **Animated Gifs** with [two photos](https://github.com/lenagroeger/Photoshop-NICAR#animated-gif-simple-2-photo-animation), [multiple photos](https://github.com/lenagroeger/Photoshop-NICAR#animated-gif-multiple-photo-animation) and [videos](https://github.com/lenagroeger/Photoshop-NICAR#animated-gif-video-animation).
-4. How to use the magical [**Perspective tool** and Content Aware Fill](https://github.com/lenagroeger/Photoshop-NICAR#perspective-tool)
+4. How to use the magical [**Perspective tool** and Content Aware Fill](https://github.com/lenagroeger/Photoshop-NICAR#more-magic-in-photoshop-perspective-crop-and-content-aware-fill)
 
 [Download files here](https://drive.google.com/file/d/0ByZb_bUVlqwjdkgzSnRGRk40Sm8/view?usp=sharing)
 
@@ -247,8 +247,3 @@ Crazy, right??
 7. Contemplate all the other uses of the perspective crop tool and content-aware fill tool.
 
 
-
-
-##Perspective Tool##
-We also covered the perspective tool through a tutorial I borrowed entirely from Proublica's Lena Groeger, so rather than try to replicate it,I'm jsut going to link to her tutorial here:
-[Reorienting documents and images using the Perspective Tool (Exercise #2)](http://lenagroeger.s3.amazonaws.com/cuny-spring14/photoshop.html)
