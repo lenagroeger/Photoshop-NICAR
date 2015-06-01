@@ -108,8 +108,7 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 Let's Make a Gif: Multi-Photo Edition
 
 1. We're going to use these two delightful before-after photos
-![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermy1.jpg)
-![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermy2.jpg)
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermyB&A.jpg)
 <br>
 [Full back story](http://www.nydailynews.com/life-style/real-estate/brokers-digital-trickery-sell-drab-apartments-article-1.1885998), and [a related something you should read on the trip home from IRE](http://www.susanorlean.com/articles/lifelike.html).
 2. Open up Photoshop, and go to Window > Timeline.
