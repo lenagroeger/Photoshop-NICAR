@@ -165,15 +165,15 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 
 1. Let's say you want to do more than animate between 2 photos, you want to show a progression of many photos, like [this example from the Wall Street Journal.](http://graphics.wsj.com/ukraine-rebel-maps/)
 2. Let's try it! Open one of the images from the Ukraine folder in Photoshop.
-3. Drag and drop your other images onto the stage. This will bring them into your file as separate layers.
-  ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/GifLayers.png)
+3. Drag and drop your other images onto the stage. This will bring them into your file as separate layers.<br>
+  ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/GifLayers.png)<br>
 
 4. Like we did before, select **Window > Timeline** from the toolbar to open up a new panel in Photoshop.
 5. From the Timeline panel, click on "Create Frame Animation".
 7. From the dropdown in the upper right of the Timeline window, select "Make Frames from Layers"
  ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/FramesFromLayers.png)
 
-8. Make sure your frames are in the correct sequence, then set the duration for which you'd like each to display
+8. Make sure your frames are in the correct sequence, then set the duration for which you'd like each to display.<br>
   ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/SetFrameDurations.png)
 
 9. Select **File > Save for Web**
