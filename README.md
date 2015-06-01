@@ -5,9 +5,9 @@ In this session, we'll learn:
 1. How to automate tasks using [**Actions**](https://github.com/lenagroeger/Photoshop-NICAR#actions)
 2. How to create [**Droplets**](https://github.com/lenagroeger/Photoshop-NICAR#droplets) for Actions you use regularly
 3. How to make [**Animated Gifs**](https://github.com/lenagroeger/Photoshop-NICAR#animated-gif-simple-2-photo-animation) (including [multi-photo](https://github.com/lenagroeger/Photoshop-NICAR#animated-gif-multiple-photo-animation) and [video](https://github.com/lenagroeger/Photoshop-NICAR#animated-gif-video-animation) versions).
-4. How to use the magical [**Perspective tool** and Content Aware Fill](https://github.com/lenagroeger/Photoshop-NICAR#more-magic-in-photoshop-perspective-crop-and-content-aware-fill)
+4. How to use [**Magical Tools**](https://github.com/lenagroeger/Photoshop-NICAR#more-magic-in-photoshop-perspective-crop-and-content-aware-fill) like perspective crop and content-aware fill
 
-[Download files here](https://drive.google.com/file/d/0ByZb_bUVlqwjdkgzSnRGRk40Sm8/view?usp=sharing)
+Before we begin, [download all the files you'll need here](http://lenagroeger.s3.amazonaws.com/images/Photosop-IRE.zip)
 
 ##Actions##
 Do you find yourself repeating many of the same tasks again and again? You're working too hard. Make an action! In this example, we'll set up an action that converts a bunch of large files (of Oscar-nominated movie poster images) into a smaller size of 200px wide and 72px/in resolution.
