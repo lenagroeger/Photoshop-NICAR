@@ -19,8 +19,10 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 
 4. Give it a name. Let's say "200px wide", and push "Record" ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster4.jpg)
 
-5. Select **Image > Image Size...**   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster5.jpg)
-6. Set the resolution to 72px and the width to 200px. ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster6.jpg)
+5. Select **Image > Image Size...**
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster5.jpg)
+6. Set the resolution to 72px and the width to 200px.
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster6.jpg)
 7. Still recording, go to File > Save As, and save to new folder (I've called it Best Picture New). You can also do File > Save for Web.
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster8.jpg)
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster7.jpg)
