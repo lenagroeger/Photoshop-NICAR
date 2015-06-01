@@ -68,41 +68,106 @@ Droplets make Actions even simpler to use by making them executuable with a simp
 ##Droplets 2##
 Now let's apply our droplet-making skills to solve a real-life problem that you may encounter if you cover politics. I want every single member of congress's photo, but not in color – in black and white. There are 879 photos, so manually opening up each photo in Photoshop is out of the question. What to do?
 
-1. First, we need all the images. Download them here (note, this only includes the first 23 photos, if you really want all 879 get them here). You should get a folder filled with images like this:
-*    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress1.jpg)
+1. First, we need all the images. Open up the "Congress Photos" folder (note, this only includes the first 20 photos, if you really want all 879 [get them here](https://github.com/unitedstates/images/tree/gh-pages/congress)).
+   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress1.jpg)
 
-2. Now, open one up in Photoshop.
-*    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress2.jpg)
+2. Now, open one up in Photoshop. <br>
+   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress2.jpg)
 
 3. Create a new action, I'm calling mine B&W. Click Record.
-*    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress4.jpg)
+  ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress4.jpg)
 
 4. Go to Image > Mode > Grayscale, and click OK. You should now have a black and white photo!
-*    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress6.jpg)
+   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress6.jpg)
 
 6. Just for fun, let's add one more step to make the photo sepia colored. Go to Image > Mode > Duotone, and select "Duotone" from the Dropdown.
-*    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress7.jpg)
+    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress7.jpg)
 
 7. Click on the white box and select a new color (I am choosing Orange)
-*    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress8.jpg)
+   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress8.jpg)
 
 8. You might need to give this new color a name, but when you hit OK it should have given your photo a nice sepia effect!
-*    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress9.jpg)
+   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress9.jpg)
 
 9. Now let's save it. File > Save for Web, and save it to a new folder (I called it Congress Photos New)
 
 10. Stop recording this action by hitting the "Stop" button
-*    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress10.jpg)
+   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress10.jpg)
 
 11. Now let's go straight to making a droplet. **File > Automate > Create Droplet...**
 
 12. I'll save this droplet as "B&W" to the Desktop, and select "Congress Photos New" as my destination folder.
-*    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress11.jpg)
+   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress11.jpg)
 
-13. Now I'll drag my Congress Photos folder onto the droplet, and wait for my computer to do all the work! You should end up with a 879 newly sepia-fied images. Hurray!
+13. Now I'll drag my Congress Photos folder onto the droplet, and wait for my computer to do all the work! You should end up with a bunch of newly sepia-fied images. Hurray!
 
 ##Animated Gifs##
 Do you have an interactive graphic you'd like to promote on the front page? Animated Gifs are a great way to draw attention to interactive work.
+
+
+Let's Make a Gif: Multi-Photo Edition
+
+    1. We're going to use these two delightful before-after photos
+
+     ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermy1.jpg)
+    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermy2.jpg)
+
+      *[Full back story](http://www.nydailynews.com/life-style/real-estate/brokers-digital-trickery-sell-drab-apartments-article-1.1885998), and [a related something you should read on the trip home from IRE](http://www.susanorlean.com/articles/lifelike.html).
+
+    2. Open up Photoshop, and go to Window > Timeline.
+        ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif1.jpg)
+
+    3. You should now see a bottom bar with a tab called Timeline.
+    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif2.jpg)
+
+    4. Open up both photos in Photoshop and copy and paste them into the same file. You should end up with each photo on its own layer.
+        ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3.jpg)
+
+    5. Click on "Create Frame Animation."
+            ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif4.jpg)
+
+
+
+    6. You should see a little box with a photo, we'll refer to that as a single "frame."
+    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3b.jpg)
+    7. Go ahead and set the duration for .5 seconds.
+            ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif6.jpg)
+
+    8. And then set the looping to FOREVER (I mean, go big or go home).
+
+        ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7.jpg)
+
+    9. Now we need to make a second frame with the other photo. Click on the new page button.
+ ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3c.jpg)
+
+ 10. You should see a new frame appear.
+  ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7b.jpg)
+
+
+    11. Now we have a new frame, but they both look the same! So with the second frame selected, go over to your layers and click on the eye icon to toggle one layer off and reveal the second photo.
+
+        ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7c.jpg)
+
+     12. The animation frames reflect the current state of your layers, so we've just set the second frame to show the second photo. If you look closely you should see that the frame indeed looks different (it's full of taxidermy).
+    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7d.jpg)
+
+    13. Go to File > Save for Web.
+    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif8.jpg)
+
+    14. Save it as a gif!
+
+    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif9.jpg)
+
+    15. Now, open up that gif in a browser. You should see a spectacular transformation of dead animals.
+
+       ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/taxidermyFinal.gif)
+
+    16. Now, contemplate all the much more useful combinations of photos you can now make into gifs.
+
+
+
+
+
 
 1. Start with a series of images or screenshots from your interactive.
 2. Open one of the images in Photoshop.
