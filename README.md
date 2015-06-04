@@ -7,12 +7,12 @@ In this session, we'll learn:
 3. How to make [**Animated Gifs**](https://github.com/lenagroeger/Photoshop-NICAR#animated-gif-simple-2-photo-animation) (including [multi-photo](https://github.com/lenagroeger/Photoshop-NICAR#animated-gif-multiple-photo-animation) and [video](https://github.com/lenagroeger/Photoshop-NICAR#animated-gif-video-animation) versions).
 4. How to use [**Magical Tools**](https://github.com/lenagroeger/Photoshop-NICAR#more-magic-in-photoshop-perspective-crop-and-content-aware-fill) like perspective crop and content-aware fill
 
-Before we begin, [download all the files you'll need here](http://lenagroeger.s3.amazonaws.com/images/Photosop-IRE.zip)
+
 
 ##Actions##
 Do you find yourself repeating many of the same tasks again and again? You're working too hard. Make an action! In this example, we'll set up an action that converts a bunch of large files (of Oscar-nominated movie poster images) into a smaller size of 200px wide and 72px/in resolution.
 
-1. Open an image in the OSCARS > Best Picture folder: **File > Open...**   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster1.jpg)
+1. [Download this folder of images](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/zipped/OSCARS.zip?raw=true). Open an image in the OSCARS > Best Picture folder: **File > Open...**   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster1.jpg)
 2. Open the Actions pallette: **Window > Actions**   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster2.jpg)
 3. From the dropdown, select **New Action...** (Alternatively, click on the little icon that looks like a Post-It note to create a new action)  ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster3.jpg)
 
@@ -68,7 +68,7 @@ Droplets make Actions even simpler to use by making them executuable with a simp
 ##Droplets 2##
 Now let's apply our droplet-making skills to solve a real-life problem that you may encounter if you cover politics. I want every single member of congress's photo, but not in color – in black and white. There are 879 photos, so manually opening up each photo in Photoshop is out of the question. What to do?
 
-1. First, we need all the images. Open up the "Congress Photos" folder (note, this only includes the first 20 photos, if you really want all 879 [get them here](https://github.com/unitedstates/images/tree/gh-pages/congress)).
+1. First, we need all the images. [Download them here](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/zipped/Congress%20Photos.zip?raw=true), then open up the "Congress Photos" folder (note, this only includes the first 20 photos, if you really want all 879 [get them here](https://github.com/unitedstates/images/tree/gh-pages/congress)).
    ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress1.jpg)
 
 2. Now, open one up in Photoshop. <br>
@@ -164,7 +164,7 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 ##Animated Gif: Multiple Photo Animation ##
 
 1. Let's say you want to do more than animate between 2 photos, you want to show a progression of many photos, like [this example from the Wall Street Journal.](http://graphics.wsj.com/ukraine-rebel-maps/)
-2. Let's try it! Open one of the images from the Ukraine folder in Photoshop.
+2. Let's try it! [Download this folder](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/zipped/Ukraine.zip?raw=true) and open one of the images from the Ukraine folder in Photoshop.
 3. Drag and drop your other images onto the stage. This will bring them into your file as separate layers.<br>
   ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/GifLayers.png)<br>
 
