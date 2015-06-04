@@ -218,19 +218,19 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 8. You'll get a little slider where you can select precisely the seconds of video you want for your gif (smaller is better for loading times).
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/screengif6.jpg)
 
-You should end up with this:<br>
+9.You should end up with this:<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/screengif7.jpg)
 
-9. See all those layers? Those are all the frames of your little gif!<br>
+10. See all those layers? Those are all the frames of your little gif!<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/screengif8.jpg)
 
-10. Ok, let's save this thing. Go to File > Save for Web<br>
+11. Ok, let's save this thing. Go to File > Save for Web<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/screengif9.jpg)
 
-11. Make sure you have "Gif" as the format type, and that Looping Options are set to Forever. Save it!<br>
+12. Make sure you have "Gif" as the format type, and that Looping Options are set to Forever. Save it!<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/screengif10.jpg)
 
-12. Now, open up that gif in a browser. Happy giffing!<br>
+13. Now, open up that gif in a browser. Happy giffing!<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/measles2.gif)
 
 
