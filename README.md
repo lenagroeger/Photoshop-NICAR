@@ -218,7 +218,7 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 8. You'll get a little slider where you can select precisely the seconds of video you want for your gif (smaller is better for loading times).
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/screengif6.jpg)
 
-9.You should end up with this:<br>
+9. You should end up with this:<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/screengif7.jpg)
 
 10. See all those layers? Those are all the frames of your little gif!<br>
