@@ -12,7 +12,8 @@ In this session, we'll learn:
 ##Actions##
 Do you find yourself repeating many of the same tasks again and again? You're working too hard. Make an action! In this example, we'll set up an action that converts a bunch of large files (of Oscar-nominated movie poster images) into a smaller size of 200px wide and 72px/in resolution.
 
-1. [Download this folder of images](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/zipped/OSCARS.zip?raw=true). Open an image in the OSCARS > Best Picture folder: **File > Open...**   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster1.jpg)
+1. [Download this folder of images](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/zipped/OSCARS.zip?raw=true). Open an image in the OSCARS > Best Picture folder: **File > Open...**  <br>
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster1.jpg)
 2. Open the Actions pallette: **Window > Actions**   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster2.jpg)
 3. From the dropdown, select **New Action...** (Alternatively, click on the little icon that looks like a Post-It note to create a new action)  ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster3.jpg)
 
