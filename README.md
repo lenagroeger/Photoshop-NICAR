@@ -61,9 +61,11 @@ Droplets make Actions even simpler to use by making them executuable with a simp
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster13b.jpg)
 
 2. The Droplet menu is much like the Batch menu. Select a location for the Droplet icon to appear, and a folder in which you'd like your files to save (I just saved my droplet to the Desktop, and picked the same Destination folder, Best Picture New.)
+
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster14.jpg)
 
 3. You should end up with a little icon like this on your Desktop. (Older versions of Photoshop used to have an actual droplet icon, no idea why they replaced it with an arrow.)
+
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster14b.jpg)
 
 3. Now, instead of going the all the trouble of selecting Batch from the Automate menu, just drag your Best Picture folder on top of the droplet icon. That's it! You're done!
