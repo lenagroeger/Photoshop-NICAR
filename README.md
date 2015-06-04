@@ -136,21 +136,16 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif4.jpg)
 
 
-
 6. You should see a little box with a photo, we'll refer to that as a single "frame."
-
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3b.jpg)
 
 7. Go ahead and set the duration for .5 seconds.
-
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif6.jpg)
 
 8. And then set the looping to FOREVER (I mean, go big or go home).
-
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7.jpg)
 
 9. Now we need to make a second frame with the other photo. You can do this two ways. We'll do the manual way first. Click on the new page button.
-
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3c.jpg)
 
 
