@@ -12,20 +12,22 @@ In this session, we'll learn:
 ##Actions##
 Do you find yourself repeating many of the same tasks again and again? You're working too hard. Make an action! In this example, we'll set up an action that converts a bunch of large files (of Oscar-nominated movie poster images) into a smaller size of 200px wide and 72px/in resolution.
 
-1. [Download this folder of images](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/zipped/OSCARS.zip?raw=true). Open an image in the OSCARS > Best Picture folder: **File > Open...**  <br>
+1. [Download this folder of images](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/zipped/OSCARS.zip?raw=true). Open an image in the Best Picture folder: **File > Open...**
+<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster1.jpg)
+
 2. Open the Actions pallette: **Window > Actions**   ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster2.jpg)
+
 3. From the dropdown, select **New Action...** (Alternatively, click on the little icon that looks like a Post-It note to create a new action)  ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster3.jpg)
-
-
 4. Give it a name. Let's say "200px wide", and click "Record" ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster4.jpg)
 
 5. Select **Image > Image Size...**
 <br> ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster5.jpg)
 6. Set the resolution to 72px and the width to 200px.
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster6.jpg)
+
 7. Still recording, go to File > Save As, and save to new folder (I've called it Best Picture New). You can also do File > Save for Web.
-<br>
+
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster8.jpg)
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster7.jpg)
 
@@ -33,7 +35,9 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/congress10.jpg)
 
 8. Close the image without saving your changes.
-9. To run your script, open **File > Automate > Batch...**  ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster9.jpg)
+
+9. To run your script, open **File > Automate > Batch...**
+![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster9.jpg)
 
 10. First we need to pick which action to apply. Since we want to use the 200px action we just created, under "Play" make sure the Action "200px" is selected.
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/poster10.jpg)
