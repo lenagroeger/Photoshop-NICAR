@@ -228,7 +228,7 @@ You should end up with this:<br>
 ##More Magic in Photoshop: Perspective Crop and Content Aware Fill ##
 
 
-1. Open up the War & Peace photo in the Perspective folder.
+1. [Download this photo](https://raw.githubusercontent.com/lenagroeger/Photoshop-NICAR/master/zipped/warpeace.jpg), and then open it up in Photoshop.
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/warpeace.jpg)
 
 2. Using the crop perspective tool this time, draw a selection on the four corners of the book cover.
