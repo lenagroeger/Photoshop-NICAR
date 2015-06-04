@@ -150,7 +150,6 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 
 
 10. You should see a new frame appear.
-
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7b.jpg)
 
 11. Now we have a new frame, but they both look the same! So with the second frame selected, go over to your layers and click on the eye icon to toggle one layer off and reveal the second photo.
