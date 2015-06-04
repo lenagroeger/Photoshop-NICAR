@@ -140,6 +140,7 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3b.jpg)
 
 7. Go ahead and set the duration for .5 seconds.
+
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif6.jpg)
 
 8. And then set the looping to FOREVER (I mean, go big or go home).
