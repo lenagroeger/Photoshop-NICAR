@@ -133,28 +133,23 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 
 
 
-6. You should see a little box with a photo, we'll refer to that as a single "frame."
-
+6. You should see a little box with a photo, we'll refer to that as a single "frame."<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3b.jpg)
 
-7. Go ahead and set the duration for .5 seconds.
-
+7. Go ahead and set the duration for .5 seconds.<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif6.jpg)
 
-8. And then set the looping to FOREVER (I mean, go big or go home).
-
+8. And then set the looping to FOREVER (I mean, go big or go home).<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7.jpg)
 
-9. Now we need to make a second frame with the other photo. You can do this two ways. We'll do the manual way first. Click on the new page button.
-
+9. Now we need to make a second frame with the other photo. You can do this two ways. We'll do the manual way first. Click on the new page button.<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif3c.jpg)
 
 
-10. You should see a new frame appear.
-
+10. You should see a new frame appear.<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7b.jpg)
 
-11. Now we have a new frame, but they both look the same! So with the second frame selected, go over to your layers and click on the eye icon to toggle one layer off and reveal the second photo.
+11. Now we have a new frame, but they both look the same! So with the second frame selected, go over to your layers and click on the eye icon to toggle one layer off and reveal the second photo.<br>
 ![](https://github.com/lenagroeger/Photoshop-NICAR/blob/master/screengrabs/photogif7c.jpg)<br>
 
 12. The animation frames reflect the current state of your layers, so we've just set the second frame to show the second photo. If you look closely you should see that the frame indeed looks different (it's full of taxidermy).<br>
